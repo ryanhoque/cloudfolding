@@ -1,0 +1,9 @@
+__pycache__/
+media/
+logs*/
+*.gif
+*.pth
+*.pkl
+*.pyc
+*.png
+*egg-info/
